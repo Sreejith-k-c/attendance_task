@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260465039970",
+    "project_id": "attendance-e4edb",
+    "storage_bucket": "attendance-e4edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260465039970:android:7186cb129cc53346930f3b",
+        "android_client_info": {
+          "package_name": "com.example.attendance_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQsjMrIZLgk3LNjEGgYMydST4ok_3eiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
